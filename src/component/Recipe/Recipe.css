@@ -1,0 +1,8 @@
+.recipe-card{
+    flex: 1 25rem;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    /* background-color:rgba(165, 145, 145, 0.404) ;
+    box-shadow: rgba(0, 0, 0, 0.123) 5px 5px 5px; */
+}
