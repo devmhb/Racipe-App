@@ -9,8 +9,8 @@
 .recipes-con{
     display: flex;
     flex-flow: row wrap;
-    padding: 2rem;
 }
+
 
 form{
     text-align: center;
